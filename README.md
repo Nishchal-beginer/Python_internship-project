@@ -1,2 +1,5 @@
 # Python_internship-project
-The Smart Resume Parser is a Python-based application that automatically extracts structured information from PDF and DOCX resumes. It identifies key details such as candidate name, contact information, skills, education, and work experience using NLP techniques with spaCy and regex.
+A Python and NLP-powered application to extract structured data from PDF and DOCX resumes.  
+It uses spaCy, regex, and document parsing libraries to identify skills, education, and experience.  
+The Streamlit UI allows users to upload resumes and view results instantly.  
+Parsed data can be exported as JSON or CSV for further analysis or integration.
