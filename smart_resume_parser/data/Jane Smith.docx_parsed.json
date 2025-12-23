@@ -1,0 +1,49 @@
+{
+  "name": "Jane Smith\nBengaluru",
+  "email": "jane.smith.data@example.com",
+  "phone": "+91 98765 12345",
+  "summary": "Data Analyst with 4 years of experience in business intelligence, dashboarding,\nand SQL-based reporting. Adept at translating business questions into data\nmodels and visualizations.",
+  "skills": [
+    "excel",
+    "numpy",
+    "pandas",
+    "power bi",
+    "python",
+    "sql",
+    "tableau"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Engineering in Information Science",
+      "institution": "RV College of Engineering",
+      "start_year": "2015",
+      "end_year": "2019",
+      "raw": "Bachelor of Engineering in Information Science\nRV College of Engineering\n2015 - 2019"
+    }
+  ],
+  "experience": [
+    {
+      "job_title": "Data Analyst",
+      "company": "Bright Analytics Pvt Ltd",
+      "start_date": "Mar 2022",
+      "end_date": "Present",
+      "description": "Mar 2022 - Present\n- Built Power BI dashboards to track sales KPIs across 5 regions.\n- Reduced reporting time by 60% by automating SQL pipelines.\n- Partnered with stakeholders to define success metrics.",
+      "raw": "Data Analyst - Bright Analytics Pvt Ltd\nMar 2022 - Present\n- Built Power BI dashboards to track sales KPIs across 5 regions.\n- Reduced reporting time by 60% by automating SQL pipelines.\n- Partnered with stakeholders to define success metrics."
+    },
+    {
+      "job_title": "Business Intelligence Analyst",
+      "company": "Insightful Ltd",
+      "start_date": "Aug 2019",
+      "end_date": "Feb 2022",
+      "description": "Aug 2019 - Feb 2022\n- Developed Tableau dashboards and ad-hoc reports.\n- Optimized SQL queries for better performance.\n- Conducted training sessions for non-technical users.",
+      "raw": "Business Intelligence Analyst - Insightful Ltd\nAug 2019 - Feb 2022\n- Developed Tableau dashboards and ad-hoc reports.\n- Optimized SQL queries for better performance.\n- Conducted training sessions for non-technical users."
+    }
+  ],
+  "raw_sections": {
+    "header": "Jane Smith\nBengaluru, India\n+91 98765 12345\njane.smith.data@example.com\nLinkedIn: linkedin.com/in/jane-smith-data",
+    "profile": "Data Analyst with 4 years of experience in business intelligence, dashboarding,\nand SQL-based reporting. Adept at translating business questions into data\nmodels and visualizations.",
+    "technical skills": "SQL, Excel, Power BI, Tableau, Python (Pandas, NumPy),\nStatistics, Data Cleaning, Data Visualization",
+    "professional experience": "Data Analyst - Bright Analytics Pvt Ltd\nMar 2022 - Present\n- Built Power BI dashboards to track sales KPIs across 5 regions.\n- Reduced reporting time by 60% by automating SQL pipelines.\n- Partnered with stakeholders to define success metrics.\n\nBusiness Intelligence Analyst - Insightful Ltd\nAug 2019 - Feb 2022\n- Developed Tableau dashboards and ad-hoc reports.\n- Optimized SQL queries for better performance.\n- Conducted training sessions for non-technical users.",
+    "education": "Bachelor of Engineering in Information Science\nRV College of Engineering\n2015 - 2019"
+  }
+}

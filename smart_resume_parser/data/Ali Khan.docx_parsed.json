@@ -1,0 +1,60 @@
+{
+  "name": "Ali Khan\nBerlin",
+  "email": "ali.khan.ml@example.com",
+  "phone": "+49 151 23456789",
+  "summary": "Machine Learning Engineer with experience in building end-to-end ML pipelines,\nfrom data ingestion to model deployment in production.",
+  "skills": [
+    "aws",
+    "deep learning",
+    "docker",
+    "git",
+    "machine learning",
+    "nlp",
+    "numpy",
+    "pandas",
+    "python",
+    "pytorch",
+    "tensorflow"
+  ],
+  "education": [
+    {
+      "degree": "Master of Science in Computer Science (Machine Learning)",
+      "institution": "Technical University of Berlin",
+      "start_year": "2015",
+      "end_year": "2017",
+      "raw": "Master of Science in Computer Science (Machine Learning)\nTechnical University of Berlin\n2015 - 2017"
+    },
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "University of Munich",
+      "start_year": "2011",
+      "end_year": "2015",
+      "raw": "Bachelor of Science in Computer Science\nUniversity of Munich\n2011 - 2015"
+    }
+  ],
+  "experience": [
+    {
+      "job_title": "Machine Learning Engineer",
+      "company": "VisionAI GmbH",
+      "start_date": "Apr 2021",
+      "end_date": "Present",
+      "description": "Apr 2021 - Present\n- Developed CNN-based models to classify images with 95% accuracy.\n- Deployed models to AWS using Docker containers and CI/CD pipelines.\n- Implemented monitoring for model drift and performance.",
+      "raw": "Machine Learning Engineer - VisionAI GmbH\nApr 2021 - Present\n- Developed CNN-based models to classify images with 95% accuracy.\n- Deployed models to AWS using Docker containers and CI/CD pipelines.\n- Implemented monitoring for model drift and performance."
+    },
+    {
+      "job_title": "Data Scientist",
+      "company": "SmartData Labs",
+      "start_date": "Jan 2018",
+      "end_date": "Mar 2021",
+      "description": "Jan 2018 - Mar 2021\n- Built NLP models for sentiment analysis on customer reviews.\n- Created dashboards to visualize model performance and business impact.\n- Worked closely with engineers to integrate models into web services.",
+      "raw": "Data Scientist - SmartData Labs\nJan 2018 - Mar 2021\n- Built NLP models for sentiment analysis on customer reviews.\n- Created dashboards to visualize model performance and business impact.\n- Worked closely with engineers to integrate models into web services."
+    }
+  ],
+  "raw_sections": {
+    "header": "Ali Khan\nBerlin, Germany\n+49 151 23456789\nali.khan.ml@example.com",
+    "summary": "Machine Learning Engineer with experience in building end-to-end ML pipelines,\nfrom data ingestion to model deployment in production.",
+    "skills": "Python, Machine Learning, Deep Learning, NLP, TensorFlow, PyTorch,\nPandas, NumPy, Scikit-learn, Docker, AWS, Git",
+    "experience": "Machine Learning Engineer - VisionAI GmbH\nApr 2021 - Present\n- Developed CNN-based models to classify images with 95% accuracy.\n- Deployed models to AWS using Docker containers and CI/CD pipelines.\n- Implemented monitoring for model drift and performance.\n\nData Scientist - SmartData Labs\nJan 2018 - Mar 2021\n- Built NLP models for sentiment analysis on customer reviews.\n- Created dashboards to visualize model performance and business impact.\n- Worked closely with engineers to integrate models into web services.",
+    "education": "Master of Science in Computer Science (Machine Learning)\nTechnical University of Berlin\n2015 - 2017\n\nBachelor of Science in Computer Science\nUniversity of Munich\n2011 - 2015"
+  }
+}

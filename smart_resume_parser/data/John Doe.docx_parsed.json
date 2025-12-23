@@ -1,0 +1,58 @@
+{
+  "name": "John Doe\n",
+  "email": "john.doe@example.com",
+  "phone": "+1 555 123 4567",
+  "summary": "Software Engineer with 5+ years of experience building scalable web applications\nand APIs using Python, Django, and React. Strong background in SQL, cloud\ninfrastructure, and agile delivery.",
+  "skills": [
+    "aws",
+    "django",
+    "docker",
+    "flask",
+    "git",
+    "java",
+    "javascript",
+    "kubernetes",
+    "mongodb",
+    "mysql",
+    "node.js",
+    "postgresql",
+    "python",
+    "react",
+    "sql",
+    "typescript"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "University of California, Berkeley",
+      "start_year": "2015",
+      "end_year": "2019",
+      "raw": "Bachelor of Science in Computer Science\nUniversity of California, Berkeley\n2015 - 2019"
+    }
+  ],
+  "experience": [
+    {
+      "job_title": "Senior Software Engineer",
+      "company": "Acme Corp",
+      "start_date": "Jan 2022",
+      "end_date": "Present",
+      "description": "Jan 2022 - Present\n- Designed and implemented microservices using Django REST Framework.\n- Improved API response times by 40% through query optimization and caching.\n- Led a team of 4 engineers following Scrum methodology.",
+      "raw": "Senior Software Engineer - Acme Corp\nJan 2022 - Present\n- Designed and implemented microservices using Django REST Framework.\n- Improved API response times by 40% through query optimization and caching.\n- Led a team of 4 engineers following Scrum methodology."
+    },
+    {
+      "job_title": "Software Engineer",
+      "company": "Beta Systems",
+      "start_date": "Jul 2019",
+      "end_date": "Dec 2021",
+      "description": "Jul 2019 - Dec 2021\n- Developed React frontends for internal tools used by 200+ employees.\n- Created ETL jobs in Python and SQL to process millions of records daily.\n- Collaborated with product managers and designers to define requirements.",
+      "raw": "Software Engineer - Beta Systems\nJul 2019 - Dec 2021\n- Developed React frontends for internal tools used by 200+ employees.\n- Created ETL jobs in Python and SQL to process millions of records daily.\n- Collaborated with product managers and designers to define requirements."
+    }
+  ],
+  "raw_sections": {
+    "header": "John Doe\nSan Francisco, CA\n+1 555 123 4567\njohn.doe@example.com\nhttps://github.com/johndoe\nhttps://www.linkedin.com/in/johndoe",
+    "summary": "Software Engineer with 5+ years of experience building scalable web applications\nand APIs using Python, Django, and React. Strong background in SQL, cloud\ninfrastructure, and agile delivery.",
+    "skills": "Languages: Python, JavaScript, TypeScript, SQL\nFrameworks: Django, Flask, React, Node.js\nDatabases: PostgreSQL, MySQL, MongoDB\nCloud & Tools: AWS, Docker, Kubernetes, Git",
+    "work experience": "Senior Software Engineer - Acme Corp\nJan 2022 - Present\n- Designed and implemented microservices using Django REST Framework.\n- Improved API response times by 40% through query optimization and caching.\n- Led a team of 4 engineers following Scrum methodology.\n\nSoftware Engineer - Beta Systems\nJul 2019 - Dec 2021\n- Developed React frontends for internal tools used by 200+ employees.\n- Created ETL jobs in Python and SQL to process millions of records daily.\n- Collaborated with product managers and designers to define requirements.",
+    "education": "Bachelor of Science in Computer Science\nUniversity of California, Berkeley\n2015 - 2019"
+  }
+}
